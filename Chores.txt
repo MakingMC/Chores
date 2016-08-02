@@ -1,0 +1,16 @@
+Phones
+Stove
+Counters
+Kitchen Floors
+Momma's Special
+Laundry
+Load Dishwasher
+Unload Dishwasher
+Wash Sink
+Boys Bathroom
+Moms Bathroom
+Vacuum Halls
+Vacuum Bedrooms
+Vacuum Computer Room
+Gather Trash
+Take Trash Out
